@@ -6,5 +6,5 @@ Um simples card demonstrando a venda de um perfume.
 
 ## Screenshots
 
-![App Screenshot](/img/desktop-preview.jpg)
+![App Screenshot](/img/images/desktop-preview.jp)
 
